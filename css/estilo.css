@@ -1,0 +1,131 @@
+*{
+    box-sizing: border-box;
+}
+body{
+margin: auto;
+background: rgb(190,179,82);
+background: linear-gradient(95deg, rgba(190,179,82,1) 1%, rgba(61,58,28,1) 50%, rgba(194,186,105,1) 100%);
+    text-align: center
+}
+h1{
+    text-align: center;
+    color: #ffff;
+}
+h2{
+    text-align: center;
+    color: #ffff;
+    }
+h3{
+    display flex;
+    float right;
+    text-align: center;
+    color: #ffff;
+}
+.boton{
+    border-color: black;
+    display: flex;
+    float: right;
+    height: 95px;
+}
+.caja1{
+    margin-top: 100px;
+    width: 20%;
+    height: 720px;
+    display flex;
+    flex-flow: column wrap; float: left;   
+}
+h4{
+    text-align: center;
+    font-size: 24;
+    font-family: century;
+    color: #ffff;
+ }
+p{
+     text-align: justify;
+     margin: 10%;
+     font-size: 22;
+     font font-family: century;
+     color: #ffff;  
+ }   
+}
+.caja2{
+
+}
+.caja3{
+    margin-top: 100px;
+    width: 20%;
+    height: 720px;
+    display flex;
+    flex-flow: column wrap; float: right;
+}
+h5{
+    text-align: center; 
+    font-size: 24;
+    font-family: century;
+    color: #ffff;       
+ }
+p{
+    text-align: justify;
+    font-size: 22;
+    font-family: century; 
+    color: #ffff;
+}
+.caja4{
+    margin-top: 100px;
+    background-color: rgb(200, 200, 200);  
+    margin-top: 50px;
+    margin-bottom: 10px;
+    width: 100%;
+    height: 50px;
+    display flex;
+    flex-flow: column wrap; float: left; 
+}
+h6{
+    text-align: center; 
+    font-size: 24;
+    font-family: century;
+    color: #ffff;       
+}
+.carrusel1{
+    margin-top: 100px;
+    height: 350px;
+    margin-left: 15;
+}
+.carrusel2{
+    margin-top: 100px;
+    margin-left: 15;
+}
+.carrusel3{
+    margin-top: 100px;
+    margin-left: 15;
+}
+.caja5{
+    background-color: rgb(200, 200, 200);
+    margin-top: 100px;
+    width: 45%;
+    height: 100px;
+    display flex;
+    flex-flow: column wrap; float: left;   
+}
+.red1{
+    margin-top: 50px;
+    margin-right: 10px;  
+    float: left; 
+}
+.red2{
+    margin-top: 50px;
+    margin-right: 10px;
+    float: left;
+}   
+.caja6{
+    background-color: rgb(200, 200, 200);
+    margin-top: 100px;
+    width: 45%;
+    height: 100px;
+    display flex;
+    flex-flow: column wrap; float: right;   
+}
+.red3{
+    margin-top: 50px;
+    margin-right: 10px;
+}    
